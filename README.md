@@ -6,9 +6,6 @@ Sometimes all you need is some Inspiration.
 I made this site for that times, gathering some interesting quotes from people you probably admire: Steve Jobs, Bill Gates, Jimmy Wales, Larry Page.
 10kB kilobytes of Inspiration, for everyone.
 
-View the source of this project on GitHub:
-https://github.com/r2pro/10k01 
-
 Demo:
 http://rede2001.com/r2pro/10k-site1
 
