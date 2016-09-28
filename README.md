@@ -4,6 +4,7 @@
 Sometimes all you need is some Inspiration.
 
 I made this site for that times, gathering some interesting quotes from people you probably admire: Steve Jobs, Bill Gates, Jimmy Wales, Larry Page.
+
 10kB kilobytes of Inspiration, for everyone.
 
 Demo:
